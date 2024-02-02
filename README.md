@@ -2,7 +2,7 @@
 
 👀 I’m interested in software support, deployment and app maintanence
 
-🌱 I’m currently learning mergado app
+🌱 I’m currently learning mergado app and plugin
 
 📫 reach me at robin.fuksa@mergado.com
 
